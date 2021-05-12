@@ -6,6 +6,6 @@ https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-t
 
 ### 
 
-<img src="images/MYEVENT.png" width='400'>
-<img src="images/RESPONSIVE_ADMIN_TOOL.png" width='400'>
+<img src="images/MYEVENT.png" width='800'>
+<img src="images/RESPONSIVE_ADMIN_TOOL.png" width='800'>
 
